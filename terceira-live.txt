@@ -1,0 +1,15 @@
+Conceito de rootless
+
+https://rootlesscontainers.rs
+
+Rootless é sem root, sem super usuário....
+
+garantir que as imagens de containers não tenham o direito de conseguir mais permissões de executas coisas nos containers
+
+SHIFT LEFT -- Termo que significa (Você quer falhar antes...) Falhar o mais rapido possivel para corrigir antes
+
+SAST (Teste estático de segurnaça de aplicação) como por exemplo o trivy
+DAST
+IAST
+RAST
+
